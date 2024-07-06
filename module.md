@@ -1,6 +1,6 @@
 # CSE 310 - Module Report
 
-Name:
+Name: Mobile App
 
 ## Part 1 - Module Planning
 
@@ -9,6 +9,7 @@ This section should be filled on the first Monday of the Sprint and submitted
 ### Section 1.1 - Module Selection
 
 1. What Sprint is this for (1-5)?
+    4
 
 2. Select the Module (with a single X) that you will do this Sprint:
 
@@ -68,8 +69,10 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
 |          |          |        |                                            |             |
-|  06/19   |  11:30   |   IM   |                                            |     00:24   |
-|  06/20   |  4:30    |   TP   |           Trying to make the emulators run |     01:12   |
+|  06/12   |  10:15   |   TP   |        Class                               |     01:00   |
+|  06/17   |  10:15   |   TP   |        Class                               |     01:00   |
+|  06/19   |  11:30   |   IM   |       Trying to make the emulators run     |     00:24   |
+|  06/20   |  4:30    |   TP   |                                            |     01:12   |
 |  06/20   |  11:15   |   IM   |                                            |      1:04   |
 |  06/21   |  08:18   |   IM   |                                            |      0:39   |
 |  06/28   |  09:10   |   IM   |                                            |      0:10   |
@@ -87,28 +90,38 @@ _Note: Add more rows as needed._
 This section should be filled out at the end of the Sprint and submitted.
 
 1. Put your GitHub link for your demonstration software here: 
+    https://github.com/Ckevin99/TaskManager-GUI
 
 2. Put your YouTube link for your code walkthrough and demo video here:
+    https://www.youtube.com/watch?v=_dlrnK1fZOY
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |  Yes   |
+|Did you complete all the unique requirements for the module?|  Yes   |
+|Did you write at least 100 lines of code?                   |  Yes   |
+|Did you fully complete the readme.md file?                  |  Yes   |
+|Did you put the readme.md file in GitHub in the top folder? |  Yes   |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
+The stretch challenge is the number of screens. I did two on this project.
+
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+
+no
+
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|   12:05           |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
+I got a problem emulating Android on my computer; it slowed me down a lot, and I spent a lot of time trying to figure it out.
+I am late for this next sprint, but I will try to have the basic project running until Saturday.
+I will also try to find other ways to do something instead of wasting too much time on one.
